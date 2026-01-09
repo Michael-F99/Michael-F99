@@ -1,6 +1,6 @@
 # Hi there, I'm Michael! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d2MjBtN2VvZzR4a3NrMXZyYnhid3Iya3hlMHJ3aTA2azRlYnFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Er3QVX48nt5ok/giphy.gif)
 
 ## About Me 🚀
 
@@ -8,18 +8,14 @@ I'm a passionate Computer Engineering Student. I love tackling complex problems,
 
 - 🌱 Currently learning: Programming for creating websites
 - 🌍 Languages: C++, Java, Python, SQL, HTML
-- ⚡ Fun fact: I'm a Filipino
 
 ## My Skills 🧠
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-bandge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
 
 ## Featured Projects 💻
 
