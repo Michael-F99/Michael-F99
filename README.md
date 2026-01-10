@@ -7,7 +7,7 @@
 I'm a passionate Computer Engineering Student. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Programming for creating websites
-- 🌍 Languages: C++, Java, Python, SQL, HTML
+- 🌍 Languages: C++, Python, SQL, Java, HTML
 
 ## My Skills 🧠
 
