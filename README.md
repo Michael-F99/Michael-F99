@@ -7,7 +7,7 @@
 I'm a passionate Computer Engineering Student. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Programming for creating websites
-- 🌍 Languages: C++, Python, SQL, Java, HTML
+- 🌍 Languages: C++, Python, SQL, Java, HTML, CSS, JavaScript
 
 ## My Skills 🧠
 
@@ -16,3 +16,6 @@ I'm a passionate Computer Engineering Student. I love tackling complex problems,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
